@@ -4,7 +4,7 @@
 
 # Тестовые задания в компанию Appbooster
 
-* [iOS developer](./test/ios.md)
-* [Frontend developer](./test/frontend.md)
-* [Frontend + graphql developer](./test/frontend-graphql.md)
-* [Backend developer](./test/backend.md)
+* [iOS developer](./tasks/ios.md)
+* [Frontend developer](./tasks/frontend.md)
+* [Frontend + graphql developer](./tasks/frontend-graphql.md)
+* [Backend developer](./tasks/backend.md)
