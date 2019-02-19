@@ -6,5 +6,6 @@
 
 * [iOS developer](./tasks/ios.md)
 * [Frontend developer](./tasks/frontend.md)
+* [React-native developer](./tasks/react-native.md)
 * [Frontend + graphql developer](./tasks/frontend-graphql.md)
 * [Backend developer](./tasks/backend.md)
