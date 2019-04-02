@@ -6,7 +6,7 @@
   <img src="../Resources/html-css-test-task.png" height="400">
 </p>
 
-Для вёртки используйте [проект в Фигме]() (доступен без инвайтов) или [проект в zeplin](https://zpl.io/bljyX4X) (напишите на почту asubbotin@appbooster.ru для получения инвайта в проект. В теме письма укажите "Запрос на тестовое задание: html-верстальщик")
+Для вёртки используйте [проект в Фигме](https://www.figma.com/file/BB3MJHff1johuxJvmbTd9Pwf/Appbooster-Test?node-id=0%3A1) (доступен без инвайтов) или [проект в zeplin](https://zpl.io/bljyX4X) (напишите на почту asubbotin@appbooster.ru для получения инвайта в проект. В теме письма укажите "Запрос на тестовое задание: html-верстальщик")
 
 ## Требования:
 
